@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="quizeleven" />
+              <option name="title_text" value="quizsport" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1238,17 +1238,9 @@
             <slidelink slideid="_player.6himHUYdf1i.60h2Ij7WQvb" displaytext="start" expand="false" type="slide" />
             <slidelink slideid="_player.6himHUYdf1i.62431XacIyQ" displaytext="instrukcja" expand="false" type="slide" />
             <slidelink slideid="_player.6himHUYdf1i.5zeEXpUqhxP" displaytext="pytanie testowe" expand="false" type="slide" />
-            <slidelink slideid="_player.6himHUYdf1i.6laVJQR0Zg4" displaytext="pyt_1" expand="false" type="slide" />
-            <slidelink slideid="_player.6himHUYdf1i.5fpjhn222Rx" displaytext="pyt_2" expand="false" type="slide" />
-            <slidelink slideid="_player.6himHUYdf1i.5jviE4REMln" displaytext="pyt_3" expand="false" type="slide" />
-            <slidelink slideid="_player.6himHUYdf1i.6ofvYo89EdH" displaytext="pyt_4" expand="false" type="slide" />
             <slidelink slideid="_player.6himHUYdf1i.6ThzWADhRu8" displaytext="pyt_5" expand="false" type="slide" />
-            <slidelink slideid="_player.6himHUYdf1i.6o1iwY05bDV" displaytext="pyt_7" expand="false" type="slide" />
-            <slidelink slideid="_player.6himHUYdf1i.6fy3YryQ73M" displaytext="pyt_7" expand="false" type="slide" />
             <slidelink slideid="_player.6himHUYdf1i.6CLY5yHCvYE" displaytext="pyt_8" expand="false" type="slide" />
-            <slidelink slideid="_player.6himHUYdf1i.6NhF1B44cB6" displaytext="pyt_9" expand="false" type="slide" />
             <slidelink slideid="_player.6himHUYdf1i.5qht1znCxep" displaytext="pyt_9" expand="false" type="slide" />
-            <slidelink slideid="_player.6himHUYdf1i.6f5gJBzYVCd" displaytext="Drag and Drop" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
